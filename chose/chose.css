@@ -1,0 +1,11 @@
+#div1 > .active {
+    background: yellow; 
+}
+
+#div1 div {
+    width: 200px;
+    height: 200px;
+    background: #ccc;
+    border: 1px solid #999;
+    display: none;
+}
